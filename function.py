@@ -25,6 +25,6 @@ def fun4(a,b):
 def fun5(a):
     return a*a*a
 
-xyz=fun5(3)
-print(xyz)
+# xyz=fun5(3)
+# print(xyz)
 
