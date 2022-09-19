@@ -13,7 +13,7 @@ print(y[::1])
 print(y[::2])
 
 
-# Move from last 
+# Move from last ( Reversing the Given String :P )
 
 print(y[::-1])
 

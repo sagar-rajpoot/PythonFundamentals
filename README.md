@@ -9,3 +9,7 @@ Data folder contain data files which was used by one or more python Scripts.
 
 # Basic Python Commands -
 Revise your Photo Study Material.
++
+Some baic Programs at PyCharm 
+then
+check this Python Fundamentals.
