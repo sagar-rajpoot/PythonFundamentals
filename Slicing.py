@@ -1,5 +1,6 @@
 x="unhappy"
 
+#Whereyou wana begin : from where you wana go ( endng index is exclusive): How many Step move every time ( in case alternative Number its 2)
 print(x[2:])
 
 print(x[2:4])
